@@ -1,0 +1,2 @@
+# LeetcodePrac
+Leetcode SQL practice 
